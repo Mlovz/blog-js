@@ -1,0 +1,30 @@
+.alert {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  background: #ff6868;
+  color: #fff;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  > p {
+  }
+
+}
+
+.header{
+  position: relative;
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+  h3{}
+  span {
+    font-size: 30px;
+    line-height: 18px;
+    cursor: pointer;
+  }
+
+}
+

@@ -1,0 +1,21 @@
+.btn{
+  padding: 10px 12px;
+  background: transparent;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.solid{
+  background: var(--pink);
+  color: #fff;
+  border: 1px solid transparent;
+}
+
+.outline{
+  border: 1px solid var(--pink);
+  color: var(--pink);
+}
+
+.max{
+  width: 100%;
+}

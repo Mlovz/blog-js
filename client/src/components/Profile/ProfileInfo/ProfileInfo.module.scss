@@ -1,0 +1,19 @@
+.info{
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 1px rgba(0,0,0, .1);
+  padding: 20px;
+}
+
+
+.col{
+  margin-top: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.row{
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

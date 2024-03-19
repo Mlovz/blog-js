@@ -1,0 +1,5 @@
+
+export const GLOBAL = {
+    ISLOADING: "GLOBAL_ISLOADING",
+    ERROR: "GLOBAL_ERROR"
+}

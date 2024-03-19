@@ -1,0 +1,5 @@
+export const AUTH_TYPES = {
+    AUTH: 'AUTH',
+    ISLOADING: 'LOGIN_ISLOADING',
+    UPDATE_USER: "UPDATE_USER"
+}

@@ -1,0 +1,23 @@
+.auth{
+  display: flex;
+  justify-content: center;
+}
+.box{
+  margin-top: 75px;
+  background: #fff;
+  max-width: 396px;
+  width: 100%;
+  padding: 30px;
+  border-radius: 10px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+}
+.title{
+  font-size: 24px;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
